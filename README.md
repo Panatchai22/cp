@@ -3,7 +3,7 @@
 Final Project — CP020003 Artificial Intelligence, Khon Kaen University (2026)
 
 ## เปิดใน Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Panatchai22/cp/blob/main/notebooks/market_basket_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Panatchai22/cp/blob/claude/project-thread-37gt22/notebooks/market_basket_analysis.ipynb)
 
 ## สิ่งที่ notebook ทำ
 1. Mount Google Drive แล้วดาวน์โหลด dataset (KKU Online Retail) ลง `MyDrive/CP_Project/data` ครั้งเดียว จากนั้นโหลดจาก Drive
